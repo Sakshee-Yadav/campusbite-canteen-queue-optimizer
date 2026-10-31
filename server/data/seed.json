@@ -1,0 +1,78 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "Veg Sandwich",
+      "category": "Snacks",
+      "price": 40,
+      "prepTime": 5,
+      "emoji": "\ud83e\udd6a",
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Masala Maggi",
+      "category": "Snacks",
+      "price": 35,
+      "prepTime": 7,
+      "emoji": "\ud83c\udf5c",
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Veg Burger",
+      "category": "Snacks",
+      "price": 60,
+      "prepTime": 8,
+      "emoji": "\ud83c\udf54",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Samosa (2 pcs)",
+      "category": "Snacks",
+      "price": 25,
+      "prepTime": 4,
+      "emoji": "\ud83e\udd5f",
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Cold Coffee",
+      "category": "Drinks",
+      "price": 50,
+      "prepTime": 3,
+      "emoji": "\ud83e\udd64",
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Lemon Soda",
+      "category": "Drinks",
+      "price": 30,
+      "prepTime": 2,
+      "emoji": "\ud83c\udf4b",
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Veg Thali",
+      "category": "Meals",
+      "price": 90,
+      "prepTime": 12,
+      "emoji": "\ud83c\udf71",
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Paneer Roll",
+      "category": "Meals",
+      "price": 75,
+      "prepTime": 9,
+      "emoji": "\ud83c\udf2f",
+      "available": true
+    }
+  ],
+  "orders": [],
+  "nextOrderId": 1
+}
